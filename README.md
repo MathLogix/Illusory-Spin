@@ -1,1 +1,1 @@
-![Illusory-Spin Icon](Screenshot.png)
+![Illusory-Spin Icon](Screen Shot.png)
